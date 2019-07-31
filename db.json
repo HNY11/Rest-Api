@@ -17,12 +17,12 @@
     {
       "id": 1,
       "body": "Nice",
-      "postId": 1
+      "name": "Himanshu"
     },
     {
       "id": 2,
       "body": "Good",
-      "postId": 1
+      "name": "Lucky"
     }
   ],
   "profile": {
