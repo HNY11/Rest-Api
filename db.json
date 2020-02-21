@@ -48,17 +48,5 @@
       "name": "Al Lowe",
       "mobile_number": "+919810153260"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "Nice",
-      "name": "Himanshu"
-    },
-    {
-      "id": 2,
-      "body": "Good",
-      "name": "Lucky"
-    }
   ]
 }
