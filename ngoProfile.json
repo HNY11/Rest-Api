@@ -1,0 +1,56 @@
+{
+    "ngoProfile": [
+        {
+            "id": 859,
+            "name": null,
+            "email": "supriya@gmail.com",
+            "phone": null,
+            "landLine": null,
+            "location": null,
+            "city": null,
+            "pinCode": null,
+            "licence_no": null,
+            "ngo_type": null,
+            "pan_number": null,
+            "unique_id": null,
+            "fcra_number": null,
+            "bio": null,
+            "occupation": null,
+            "premium": 0,
+            "latitude": null,
+            "longitude": null,
+            "status": 1,
+            "otp_verify": 1,
+            "user_content": null,
+            "email_verified_at": null,
+            "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZWFmYjMwYWI2ODI3OGMzNWI3NTViYjk0Y2U0ZDZmYTYzYzQ4NTZhYTExZTkyMDEzNmY0ZjFhMmFmNzdkMTI3YzRhMmFjOGE4ZGYxNjAyNTUiLCJpYXQiOiIxNjQ4MTE4NDkzLjE3MjAzMiIsIm5iZiI6IjE2NDgxMTg0OTMuMTcyMDM2IiwiZXhwIjoiMTY3OTY1NDQ5My4xNjg0NzUiLCJzdWIiOiI4NTkiLCJzY29wZXMiOltdfQ.vfttdSZfJmo9eHh8IfO7N3uMO0N2Ur5VZh27loPNYuHBbm_-WN5CTjNwn2KMqtvqphg_zyaWG5qrs3EVlNsYmKXXCNIp5lnwhwznqwNiczrwHvXC1RFpq8pqPUBK7T-2x8h9BPKv3uB4yWoCEhYuZVRLA5nfK4UhmaEUGl-0wajb2OzNX2hDeCedT3vjeOU5tc6sDi17p2tTn4DV6_oVmc1SrwkU84EEX3BrLeCsaZiNKctssrq4Nf_3TuH7nm6U8ly1jv0codj3BnRbb_GVkSpVXJg1pgqji1FW64KqYRxXkarvjQW-sURxEZv2wHcLJyIUr_5W_TQfDstWzpypmdci1pyQafMbzpK5Xm-BoC6ea2HS9teXDN7raY_mIDp-2eqoCHT0L3dBAi1hx09Wfd8ozw1clIBJYWLpYdy3rMy9gEbmhgqzMsm5QrC3siWu0WF0LkZnH7OXe05s4YAZrdekzqpqlp5AIPMn_CEMKP0BQZghZ0oKbbj1d_sYf3WLRRxF9M4VzLvOSrccSsyD7SDjhwYJCnL-TUcYWb6oQZyxJT2AR6vkm2ByubjojVZPjZOkQXMxdaUkd3bSYqC6KeCDzpKmH_IEBiW5RFUysRdCp-HosKPfBwp6R9ORDaGhF6CEvf5HgeC8Q1eHcq3mwxPS95Aga0t5FchyMPo550Q",
+            "first_time": 1,
+            "created_at": "2022-03-24 16:09:32",
+            "updated_at": "2022-03-24 16:11:33",
+            "followers_count": 0,
+            "is_follow_count": 0,
+            "images": [],
+            "cats": [],
+            "roles": [
+                {
+                    "id": 1,
+                    "name": "user",
+                    "created_at": "2021-01-20T09:34:13.000000Z",
+                    "updated_at": "2021-01-20T09:34:13.000000Z",
+                    "pivot": {
+                        "user_id": 859,
+                        "role_id": 1
+                    }
+                }
+            ],
+            "follows": [],
+            "posts": []
+        }
+    ],
+    "ngo_type": "",
+    "followersList": [],
+    "total_post": 0,
+    "following_count": 0,
+    "followingsList": [],
+    "galleries": []
+}
